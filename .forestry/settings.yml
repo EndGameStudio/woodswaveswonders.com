@@ -4,11 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: src
+  label: Pages
+  create: all
+  match: "**/*"
 - type: heading
   label: Content
-- type: document
-  path: src/contact.md
-  label: Contact
 - type: directory
   path: src/posts
   label: Posts
