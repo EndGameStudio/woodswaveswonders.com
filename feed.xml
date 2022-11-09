@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Woods, Waves, and Wonders</title>
+	<subtitle></subtitle>
+	<link href="https://woodswaveswonders.com/feed.xml" rel="self"/>
+	<link href="https://woodswaveswonders.com/"/>
+	
+	<updated>2020-11-08T00:00:00Z</updated>
+	
+	<id>https://woodswaveswonders.com</id>
+	<author>
+  <name>Ciri Orozco</name>
+  <email>hola@woodswaveswonders.com</email>
+	</author>
+	
+  
+  <entry>
+    <title>Status</title>
+    <link href="https://woodswaveswonders.com/posts/a-simple-post/"/>
+    <updated>2020-11-08T00:00:00Z</updated>
+    <id>https://woodswaveswonders.com/posts/a-simple-post/</id>
+    <content type="html"><![CDATA[
+      <p>This post will get updated fairly regularly. We value transparency and like to communicate issues and important updates as consistently as possible.</p>
+<h2>Statusboard</h2>
+<ul>
+<li><strong>Storefront</strong>: In progress; we're trying to maintain a sustainable pace, which sometimes feels sooooo slow. It feels great to mark off todos, though. As we look back, we've marked off A LOT of todos! We'll get there!</li>
+<li><strong>Products</strong>: Just about ready; final touches, really. Can't wait to start sharing final results.</li>
+</ul>
+
+    ]]></content>
+  </entry>
+	
+</feed>
