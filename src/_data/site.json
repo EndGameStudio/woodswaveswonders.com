@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "name": "Woods, Waves, and Wonders",
+  "shortDesc": "Woods Waves and Wonders is dedicated to creating wondereous and fun items to decorate the world around you.",
+  "url": "https://woodswaveswonders.com",
+  "authorEmail": "hola@woodswaveswonders.com",
+  "authorHandle": "@woodswaveswonders",
+  "authorName": "Ciri Orozco",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": "",
   "faviconPath": "/images/favicon.png"
 }

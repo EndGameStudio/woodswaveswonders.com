@@ -4,6 +4,8 @@ permalink: '/contact/index.html'
 layout: 'layouts/contact.njk'
 ---
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
+Hola!
 
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+We're glad you found us interesting enough to share your deets. (To people still say deets?) We can't begin to explain how excited we are about our little shop and we're glad you're excited, too!
+
+Let us know what you're thinking!
