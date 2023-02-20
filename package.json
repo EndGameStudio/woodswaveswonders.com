@@ -10,7 +10,8 @@
     "clean:dist": "rm -rf dist",
     "clean:preview": "rm -rf preview",
     "build": "npm run clean:dist && npm run gssg:build",
-    "preview": "npm run clean:preview && npm run gssg:preview && http-server ./preview -p 8080 -c-1"
+    "preview": "npm run clean:preview && npm run gssg:preview && http-server ./preview -p 8080 -c-1",
+    "check": "which wget"
   },
   "keywords": [],
   "author": "",
