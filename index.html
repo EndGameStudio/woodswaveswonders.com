@@ -219,6 +219,12 @@ https://images.unsplash.com/photo-1465708897837-11a63009dc73?crop&#x3D;entropy&a
 <script type="text/javascript">
 (() => {
     document.querySelectorAll('.gh-search').forEach((e) => e.remove())
+    if (navigator && navigator.serviceWorker && navigator.serviceWorker.getRegistrations) {
+        navigator.serviceWorker.getRegistrations().then(
+        function(registrations) { for(let registration of registrations) { registration.unregister(); } 
+    }); 
+    }
+    
 })()
 </script>
 
